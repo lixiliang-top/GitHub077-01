@@ -1,9 +1,9 @@
 package cn.kgc.ssm;
 
 public class Stu {
-    private  int id;
-    private String name;
-    private int age;
+private  int id;
+private String name;
+private  int age;
 
     public Stu() {
     }
